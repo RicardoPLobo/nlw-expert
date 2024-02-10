@@ -1,94 +1,94 @@
 // creating array of objects with questions and answers of the quiz
 const questions = [
   {
-    question: "Qual é o nome do protagonista principal de Persona 5?",
+    question: "What is the basic functional unit of the nervous system?",
     answers: [
-      "Ren Amamiya",
-      "Akira Kurusu",
-      "Makoto Yuki",
+      "Neuron",
+      "Hormone",
+      "Glial cell",
     ],
     correct: 0
   },
   {
-    question: "Quem é o mascote do grupo de ladrões Phantom Thieves?",
+    question: "Which part of the brain is responsible for regulating vital functions like breathing and heart rate?",
     answers: [
-      "Morgana",
-      "Teddie",
-      "Koromaru",
-    ],
-    correct: 0
-  },
-  {
-    question: "Qual é o nome da escola em que os personagens principais estudam em Persona 5?",
-    answers: [
-      "Shujin Academy",
-      "Gekkoukan High School",
-      "Yasogami High School",
-    ],
-    correct: 0
-  },
-  {
-    question: "Quem é o antagonista principal de Persona 5?",
-    answers: [
-      "Masayoshi Shido",
-      "Tohru Adachi",
-      "Ryotaro Dojima",
-    ],
-    correct: 0
-  },
-  {
-    question: "Qual é o nome do mundo paralelo onde os Phantom Thieves realizam suas missões?",
-    answers: [
-      "Metaverse",
-      "TV World",
-      "Dark Hour",
-    ],
-    correct: 0
-  },
-  {
-    question: "Qual é o nome do mentor e guia dos Phantom Thieves?",
-    answers: [
-      "Igor",
-      "Sojiro Sakura",
-      "Sae Niijima",
-    ],
-    correct: 0
-  },
-  {
-    question: "Qual é o nome do local onde os personagens principais se reúnem e planejam suas atividades?",
-    answers: [
-      "Velvet Room",
-      "Leblanc Café",
-      "Mementos",
+      "Cerebellum",
+      "Hypothalamus",
+      "Parietal lobe",
     ],
     correct: 1
   },
   {
-    question: "Quem é o último membro a se juntar aos Phantom Thieves?",
+    question: "What is the fatty substance that surrounds and insulates the axon of a neuron?",
     answers: [
-      "Goro Akechi",
-      "Yusuke Kitagawa",
-      "Haru Okumura",
+      "Dendrite",
+      "Synapse",
+      "Myelin",
     ],
     correct: 2
   },
   {
-    question: "Qual é o nome do navio pirata voador dos Phantom Thieves?",
+    question: "Which neurotransmitter is associated with feelings of pleasure and reward?",
     answers: [
-      "Morgana Car",
-      "Mona Bus",
-      "Mementos Ship",
+      "Dopamine",
+      "Serotonin",
+      "Acetylcholine",
     ],
     correct: 0
   },
   {
-    question: "Quem é o antagonista final e verdadeiro de Persona 5?",
+    question: "What is the name of the process by which neurons communicate with each other?",
     answers: [
-      "Yaldabaoth",
-      "Nyarlathotep",
-      "Izanami",
+      "Myelination",
+      "Synaptic transmission",
+      "Neurogenesis",
+    ],
+    correct: 1
+  },
+  {
+    question: "Which part of the brain is responsible for higher cognitive functions such as reasoning and problem-solving?",
+    answers: [
+      "Frontal lobe",
+      "Temporal lobe",
+      "Occipital lobe",
     ],
     correct: 0
+  },
+  {
+    question: "What is the term for the branching extensions of a neuron that receive signals from other neurons?",
+    answers: [
+      "Axon",
+      "Cell body",
+      "Dendrite",
+    ],
+    correct: 2
+  },
+  {
+    question: "Which division of the nervous system controls voluntary movements of skeletal muscles?",
+    answers: [
+      "Sympathetic nervous system",
+      "Autonomic nervous system",
+      "Somatic nervous system",
+    ],
+    correct: 2
+  },
+  {
+    question: "What is the space between two neurons where neurotransmitters are released and received?",
+    answers: [
+      "Synapse",
+      "Myelin sheath",
+      "Neuron body",
+    ],
+    correct: 0
+  },
+  {
+    question: "Which structure connects the two hemispheres of the brain and facilitates communication between them?",
+    answers: [
+      "Thalamus",
+      "Hippocampus",
+      "Corpus callosum",
+    ],
+    correct: 2
   }
 ];
 
