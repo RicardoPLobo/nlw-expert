@@ -108,7 +108,7 @@ input:checked:before {
   border-radius: 50%;
 }
 
-#acertos {
+#correct {
   text-align: center;
   background-color: #67e635;
 
